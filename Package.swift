@@ -6,13 +6,17 @@ import PackageDescription
 let package = Package(
     name: "SDKTest",
     platforms: [
-        .macOS(.v11), .iOS(.v15), .tvOS(.v15)
+        .iOS(.v16)
     ],
     products: [
         // Products define the executables and libraries a package produces, and make them visible to other packages.
         .library(
             name: "SDKTest",
-            targets: ["SDKTest", "VisionSDK"]),
+            targets: ["SDKTest", "VisionSDK", "TensorFlow"]),
+        
+//            .library(
+//                name: "SDKTest",
+//                targets: ["SDKTest", "TensorFlowLiteSwift"]),
     ],
     dependencies: [
         // Dependencies declare other packages that this package depends on.
@@ -31,15 +35,25 @@ let package = Package(
 //                ),
         .target(
             name: "SDKTest",
-            dependencies: ["VisionSDK"],
+            dependencies: ["VisionSDK", "TensorFlow"],
             linkerSettings: [
                 .linkedLibrary("c++")
             ]
         ),
+        
+//        .target(
+//            name: "SDKTest",
+//            dependencies: ["TensorFlowLiteSwift"],
+//            linkerSettings: [
+//                .linkedLibrary("c++")
+//            ]
+//        ),
         .binaryTarget(
-                    name: "VisionSDK",
-                    path: "./Sources/VisionSDK.xcframework")
+            name: "VisionSDK",
+            path: "./Sources/VisionSDK.xcframework"),
+        .binaryTarget(
+            name: "TensorFlow",
+            path: "./Sources/TensorFlowLiteC.xcframework"
+        )
     ]
 )
-
-//////------0000===xxc
