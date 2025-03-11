@@ -12,7 +12,7 @@ let package = Package(
         // Products define the executables and libraries a package produces, and make them visible to other packages.
         .library(
             name: "SDKTest",
-            targets: ["VisionSDK", "TensorFlowLightC"]),
+            targets: ["VisionSDK"]),
     ],
     dependencies: [
         // Dependencies declare other packages that this package depends on.
@@ -31,9 +31,6 @@ let package = Package(
 //                ),
         .binaryTarget(
                     name: "VisionSDK",
-                    path: "./Sources/VisionSDK.xcframework"),
-        .binaryTarget(
-                    name: "TensorFlowLightC",
-                    path: "./Sources/TensorFlowLiteC.xcframework")
+                    path: "./Sources/VisionSDK.xcframework")
     ]
 )
