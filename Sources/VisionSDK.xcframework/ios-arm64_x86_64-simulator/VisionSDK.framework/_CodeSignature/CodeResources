@@ -10,11 +10,27 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		2DAK8E+2b0WOzLKvnH3VgeatL1o=
+		0/HkYAl4jtp0172YKN7ChnmUsy4=
+		</data>
+		<key>Frameworks/TensorFlowLiteC.framework/Info.plist</key>
+		<data>
+		UW/jTz525Wi5FNXVyn4RckOSI90=
+		</data>
+		<key>Frameworks/TensorFlowLiteC.framework/TensorFlowLiteC</key>
+		<data>
+		1nMXxivtvVNLDF7l7gstv9fRKfY=
+		</data>
+		<key>Frameworks/TensorFlowLiteC.framework/_CodeSignature/CodeResources</key>
+		<data>
+		a+vU25caI+MbofJSkCFY2UU0TLI=
+		</data>
+		<key>GoogleService-Info.plist</key>
+		<data>
+		BWb6iZxLVacNpTwlEtt74M3p0n4=
 		</data>
 		<key>Headers/VisionSDK-Swift.h</key>
 		<data>
-		+5yayClET+wCcCIcaAidhtGSy34=
+		lO1CtdiRI8USwAbXUwtvAiLx5C8=
 		</data>
 		<key>Headers/VisionSDK.h</key>
 		<data>
@@ -22,47 +38,47 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		vlCtY6fl1RWPQeCHhXJryWcxPm0=
+		TSSN8ZTY+VGDdu1oiGpfqVRM6DQ=
 		</data>
 		<key>Modules/VisionSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		6yCJw6ocySuANN9QYE8KiLHopBQ=
+		SamTfTofVHbOIP7wnlWHF9ZspkM=
 		</data>
 		<key>Modules/VisionSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		8ghn2KrIXb1NY/UkJ5Nefx+vO8E=
+		DAzB/C8WKZHGiShoNY1tgZCxIKk=
 		</data>
 		<key>Modules/VisionSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		iIw2WdQZWMqy4p8HuO3iUBLqPr8=
+		KjKEd6WoHlwzV+3cipxEI69JrH4=
 		</data>
 		<key>Modules/VisionSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		8ghn2KrIXb1NY/UkJ5Nefx+vO8E=
+		DAzB/C8WKZHGiShoNY1tgZCxIKk=
 		</data>
 		<key>Modules/VisionSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		8Jo/TcMLuP5W4/7YEE7tuVIBVm8=
+		oHJgoknc8MRINaxVTbCr26IBqvM=
 		</data>
 		<key>Modules/VisionSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		AmUHvGgcOA/EQS+2mrvG9sloxTs=
+		QQypnHP+VPPL9QcEXbFH2oGI7TE=
 		</data>
 		<key>Modules/VisionSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		eWtWx0IyXexmCYtyycCoM7QqO4U=
+		6GwdAeinifWwjg4VM5FSAjYf//A=
 		</data>
 		<key>Modules/VisionSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		y64MvrIk2YGWtYjGbqpc+UzQzBc=
+		RKEYBpAb8/+8rc2O2l5EOS2jP3U=
 		</data>
 		<key>Modules/VisionSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		eWtWx0IyXexmCYtyycCoM7QqO4U=
+		6GwdAeinifWwjg4VM5FSAjYf//A=
 		</data>
 		<key>Modules/VisionSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		08SNP9Vq3UXiw1hdl2nlCz3Ez40=
+		FcwMJLuoxR3Rt5fFPijE9EijLBY=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -2014,14 +2030,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			nEsoTXQGTHOx/Blk5rgLvqew3DkolcqPbMBWLYCMk6c=
+			CqVU/387E8ccEcsHrGhIIsCEjn+qFo4k9jOCpSP9EuQ=
+			</data>
+		</dict>
+		<key>Frameworks/TensorFlowLiteC.framework/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			wOvRahx4XkjEZpLTWr6JlV4FVBoOkTbltNVuRWMJujo=
+			</data>
+		</dict>
+		<key>Frameworks/TensorFlowLiteC.framework/TensorFlowLiteC</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			uoVbq186CFX7TEfBNU7pRTOC4Ki7l43GWj17TUc0F54=
+			</data>
+		</dict>
+		<key>Frameworks/TensorFlowLiteC.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			lDBayIidMJH303P+Eab57aIP7Jshpf7D41U/JVdYPpw=
+			</data>
+		</dict>
+		<key>GoogleService-Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			lxJuLUkQ2AXbMF/IyDdnhDaznE2S+TNxAJtAK6+i5hE=
 			</data>
 		</dict>
 		<key>Headers/VisionSDK-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			XItxrrklB+iG4vZK9/v9QBuAL/MrkfbF+vnhklqzW2w=
+			BzO5nDasO5ZSiC3mEa0ocqkF/+muKYJyxiT682RPbh8=
 			</data>
 		</dict>
 		<key>Headers/VisionSDK.h</key>
@@ -2035,70 +2079,70 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			lUqh4lkNQWgHaXKl0VfQPCB5TlZq8WEJdClb5fwEcTE=
+			dXbn7ND2vaGB2M2Of3RaaumA5oN6IcjVYt8DcHvLHWg=
 			</data>
 		</dict>
 		<key>Modules/VisionSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			45XzJ26XJjHSI6k7AG+9qiJ7y8U1oCF/hLxz7G28FS4=
+			dG8ZIEHkwKEfr3uqJVkZC0gBKMYYSiqq9QL5vrFq1cE=
 			</data>
 		</dict>
 		<key>Modules/VisionSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			2ER6nE5KhmUwSxKWCjzvE+1RvRh5oEHA3vBT/Xc9u80=
+			V/I+3o6WQyiXAxTgBCWJqO0/axtOP+9xHxsOrk82uhk=
 			</data>
 		</dict>
 		<key>Modules/VisionSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			45XzJ26XJjHSI6k7AG+9qiJ7y8U1oCF/hLxz7G28FS4=
+			dG8ZIEHkwKEfr3uqJVkZC0gBKMYYSiqq9QL5vrFq1cE=
 			</data>
 		</dict>
 		<key>Modules/VisionSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			A71fj8o9U6zjkCusqtEkPbHoiJRNhLSOetETKtz1Sts=
+			THeFgBNjEuejktLFO+i/Q3EllRxFhLl2lzTAR4SidIE=
 			</data>
 		</dict>
 		<key>Modules/VisionSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			YOw8z3lfS19TFBTsOj2r2UGIuDpxOt4/swsXj0JGJLA=
+			SVEOnwJf+QgPYAf864S6XiTAsLdJau2vmofDi0VyN2E=
 			</data>
 		</dict>
 		<key>Modules/VisionSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			IR02Z2q0MatZaCsbq3HPweHJJEajyrRBwhTKJp/NUfs=
+			JPMfzypqxYdDafAuAcmd18t3e+hKRxJiWzCP3Rl8MPc=
 			</data>
 		</dict>
 		<key>Modules/VisionSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			tjzKR3iFxJfGBDJlKNS1jUcMtNp5fdFolwhhiOdbcFI=
+			d1XKaqZAH8sn+N4MZyQb1ozRKx0kECzjSdfEU/Rnb7k=
 			</data>
 		</dict>
 		<key>Modules/VisionSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			IR02Z2q0MatZaCsbq3HPweHJJEajyrRBwhTKJp/NUfs=
+			JPMfzypqxYdDafAuAcmd18t3e+hKRxJiWzCP3Rl8MPc=
 			</data>
 		</dict>
 		<key>Modules/VisionSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			R75+PMy2U8VTZpy14s3Ru7KBAGwl7xi3/VPXz9jPBRk=
+			1LTNGUWIliLVAjovBWHi9CKZihJ7NY3RrZx0THlRtB0=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
