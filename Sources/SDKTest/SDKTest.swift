@@ -8,5 +8,5 @@
 //import TensorFlowLiteC
 //import VisionSDK
 
-@_exported import TensorFlowLiteC
-@_exported import VisionSDK
+//@_exported import TensorFlowLiteC
+//@_exported import VisionSDK
